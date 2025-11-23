@@ -1,7 +1,7 @@
 # Ex.No:9B Binary Tree (Float Values)
 
 ## Aim
-To write a Python program to build a binary tree with a root, left, and right node using float values.
+To write a Python program to build a binary tree with a root, left, and right node using float values. 
 
 ## Algorithm
 
