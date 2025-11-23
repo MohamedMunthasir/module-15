@@ -20,7 +20,7 @@ To write a Python program to build the following expression tree and print the i
 ```
 from binarytree import build
 
-l=["*","+","-",9,3,8,4]
+l=["*","+","-",9,3,8,4] 
 bt=build(l)
 print(bt.inorder)
 print(bt.postorder)
