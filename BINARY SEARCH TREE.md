@@ -2,7 +2,7 @@
 
 ## Aim
 To write a Python program to build a Binary Search Tree (BST) using a built-in function.
-
+ 
 
 ## Algorithm
 
