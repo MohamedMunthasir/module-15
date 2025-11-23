@@ -5,7 +5,7 @@ To write a Python program to build a heap tree using appropriate Python package 
 
 
 ## Algorithm
-
+ 
 1. Start the program.
 2. Import the `heapq` module.
 3. Define a function `heaptree()` that takes a list `H` as input.
